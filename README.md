@@ -113,7 +113,3 @@ After processing data from tool calls, the agentic system:
 - **Reasoning Pattern**: ReAct (Reasoning + Acting)
 - **Data Platform**: OpenBB
 - **Data Sources**: Yahoo Finance, Finviz, TMX, Cboe, and more
-
-## License
-
-*(Add license information here)*
